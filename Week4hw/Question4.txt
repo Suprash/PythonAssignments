@@ -1,0 +1,5 @@
+ctypes is a built in pytong library that helps us load any compiled library without any python c api code. 
+This means that normally c code can be compiled. Then we can use it from python. 
+
+python extension modules are compiled python modules that python imports like a normal libary or a module. 
+It performs like an API between the c file and the python file. 
